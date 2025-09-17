@@ -22,5 +22,5 @@
 Projeto de **primeira experiência com Looker Studio**. Sugestões e dicas de melhoria são bem-vindas!
 
 ## Capturas de Tela
-[Dashboard.pdf](https://github.com/user-attachments/files/22394672/Dashboard.pdf) 
+[Dashboard.pdf](https://github.com/user-attachments/files/22394672/Dashboard.pdf) https://lookerstudio.google.com/reporting/76635fd8-eadf-4ee3-b562-30ebfcc3e220
 
